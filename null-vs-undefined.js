@@ -1,5 +1,6 @@
+
 let pakhi;
-console.log(pakhi) 
+console.log(pakhi) //undefined
 
 
 
@@ -12,22 +13,22 @@ console.log(result);
 
 
 
-function add(num1 , num2){
-    console.log(num1,num2);
-}
-const result = add(6);
-console.log(result);
+// function add(num1 , num2){
+//     console.log(num1,num2);
+// }
+// const result = add(6);
+// console.log(result);
 
 
 
 
-const premik = {name: 'smart dude', phone: 1234}
-console.log(premik.bf);
+// const premik = {name: 'smart dude', phone: 1234}
+// console.log(premik.bf);
 
 
-let fun = undefined;
-console.log(fun);
+// let fun = undefined;
+// console.log(fun);
 
-let ages = [1,2,3,4];
-console.log(ages[23]);
+// let ages = [1,2,3,4];
+// console.log(ages[23]);
 //null mane hocche okhane kichu ekta nai ba chilo khali hoye gache .
